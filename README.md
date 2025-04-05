@@ -1,4 +1,3 @@
-# Porta XOR
 Resolvendo a Porta XOR com Backpropagation
 ==========================================
 Algoritmo original desenvolvido em C# .NET Core 8.0 – Console Application – baseado no vídeo do canal Global Science Network.
