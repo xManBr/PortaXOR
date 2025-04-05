@@ -1,6 +1,10 @@
 Resolvendo a Porta XOR com Backpropagation
 Algoritmo original desenvolvido em C# .NET Core 8.0 – Console Application – baseado no vídeo do canal Global Science Network.
 
+Estrutura
+
+Rede com uma camada interna de dois neurônios - entrada x1,  x1 e viés (b1,b2,b3).
+
 Pesos iniciais:
 
 const int epocas = 100000;
