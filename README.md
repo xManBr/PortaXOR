@@ -6,6 +6,7 @@ Algoritmo original desenvolvido em C# .NET Core 8.0 – Console Application – 
 Pesos originais:
 
 const int epocas = 100000;
+
 const double n = 0.1; // taxa aprendizado
 
 double w11 = 0.50;
