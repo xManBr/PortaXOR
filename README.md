@@ -10,15 +10,21 @@ const int epocas = 100000;
 const double n = 0.1; // taxa aprendizado
 
 double w11 = 0.50;
+
 double w21 = 0.30;
+
 double b1 = 0.20;
 
 double w12 = 0.40;
+
 double w22 = 0.60;
+
 double b2 = 0.10;
 
 double v1 = 0.30;
+
 double v2 = 0.40;
+
 double b3 = 1;
 
 ***Porta XOR - Backpropagation - Erro aceitável (< ou = a 0,02) encontrado na época: 11721/100000
