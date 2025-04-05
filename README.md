@@ -30,21 +30,33 @@ double b3 = 1;
 ***Porta XOR - Backpropagation - Erro aceitável (< ou = a 0,02) encontrado na época: 11721/100000
 
 Amostra 0 = x1 -> 0 x2 -> 0  Real(y) -> 0  Predito(yy) -> 0,1017 Erro -> 0,0052
+
 Amostra 1 = x1 -> 0 x2 -> 1  Real(y) -> 1  Predito(yy) -> 0,8593 Erro -> 0,0099
+
 Amostra 2 = x1 -> 1 x2 -> 0  Real(y) -> 1  Predito(yy) -> 0,8591 Erro -> 0,0099
+
 Amostra 3 = x1 -> 1 x2 -> 1  Real(y) -> 0  Predito(yy) -> 0,1999 Erro -> 0,0200
 
 Pesos resultantes do modelo após 11721 epocas:
 
 v1 :    -6,3896
+
 v2 :     5,5728
+
 w11:    -5,4886
+
 w12:    -2,8264
+
 w21:    -5,5266
+
 w21:    -5,5266
+
 w22:    -2,8210
+
 b1 :     1,6699
+
 b2 :     3,9548
+
 b3 :    -2,2695
 
 Bibliografia
