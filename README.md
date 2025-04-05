@@ -65,4 +65,4 @@ b3 :    -2,2695
 Bibliografia
 ============
 
-Global Science Network. Global Science Network. Redes Neurais Explicadas: Resolvendo a Porta Lógica XOR com Retro-programação. Disponível em https://youtu.be/xeSqeMPMb-0?si=S7QODVY9MKMjwth- Acesso em 2025-04-04 11:21 hh:mm
+Global Science Network. Global Science Network. Redes Neurais Explicadas: Resolvendo a Porta Lógica XOR com Retro-programação. Disponível em https://youtu.be/xeSqeMPMb-0?si=S7QODVY9MKMjwth- Acesso em 2025-04-05 11:21 hh:mm
