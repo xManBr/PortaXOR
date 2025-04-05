@@ -27,6 +27,9 @@ double v2 = 0.40;
 
 double b3 = 1;
 
+RESULTADO
+=========
+
 ***Porta XOR - Backpropagation - Erro aceitável (< ou = a 0,02) encontrado na época: 11721/100000
 
 Amostra 0 = x1 -> 0 x2 -> 0  Real(y) -> 0  Predito(yy) -> 0,1017 Erro -> 0,0052
