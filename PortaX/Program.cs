@@ -159,7 +159,6 @@ for (int epoca = 1; epoca <= epocas; epoca++)
         Console.WriteLine($"w11: {w11,10:F4}");
         Console.WriteLine($"w12: {w12,10:F4}");
         Console.WriteLine($"w21: {w21,10:F4}");
-        Console.WriteLine($"w21: {w21,10:F4}");
         Console.WriteLine($"w22: {w22,10:F4}");
         Console.WriteLine($"b1 : {b1,10:F4}");
         Console.WriteLine($"b2 : {b2,10:F4}");
